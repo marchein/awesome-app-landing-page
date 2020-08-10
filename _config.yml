@@ -43,7 +43,7 @@ app:
 # Marketing
 #
 marketing_header: Der intelligente Mensaplan für Trier # Optional
-marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+marketing_desc: Diese App soll die Nutzung des Mensa Plans für Studierende und Mitarbeiter der Hochschule Trier und Uni Trier erleichtern, indem sie einfach und Tagesaktuell den aktuellen Mensaplan anzeigt.
 
 #
 # Social Links
@@ -51,12 +51,12 @@ marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
 # Includes an icon for each username you enter
 #
 social-links:
-  github:
+  github: https://github.com/marchein/Mensaplan
   facebook:
   twitter:
   pinterest:
   instagram:
-  email:
+  email: dev@marc-hein.de
   youtube: # channel/<your_long_string> or <user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
